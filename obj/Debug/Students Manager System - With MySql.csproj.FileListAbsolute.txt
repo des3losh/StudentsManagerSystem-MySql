@@ -1,0 +1,32 @@
+c:\users\des3losh\documents\visual studio 2017\Projects\Students Manager System - With MySql\Students Manager System - With MySql\bin\Debug\Students Manager System - With MySql.exe.config
+c:\users\des3losh\documents\visual studio 2017\Projects\Students Manager System - With MySql\Students Manager System - With MySql\bin\Debug\Students Manager System - With MySql.exe
+c:\users\des3losh\documents\visual studio 2017\Projects\Students Manager System - With MySql\Students Manager System - With MySql\bin\Debug\Students Manager System - With MySql.pdb
+c:\users\des3losh\documents\visual studio 2017\Projects\Students Manager System - With MySql\Students Manager System - With MySql\obj\Debug\Students Manager System - With MySql.csprojResolveAssemblyReference.cache
+c:\users\des3losh\documents\visual studio 2017\Projects\Students Manager System - With MySql\Students Manager System - With MySql\obj\Debug\Students_Manager_System___With_MySql.MainForm.resources
+c:\users\des3losh\documents\visual studio 2017\Projects\Students Manager System - With MySql\Students Manager System - With MySql\obj\Debug\Students_Manager_System___With_MySql.Properties.Resources.resources
+c:\users\des3losh\documents\visual studio 2017\Projects\Students Manager System - With MySql\Students Manager System - With MySql\obj\Debug\Students Manager System - With MySql.csproj.GenerateResource.Cache
+c:\users\des3losh\documents\visual studio 2017\Projects\Students Manager System - With MySql\Students Manager System - With MySql\obj\Debug\Students Manager System - With MySql.exe
+c:\users\des3losh\documents\visual studio 2017\Projects\Students Manager System - With MySql\Students Manager System - With MySql\obj\Debug\Students Manager System - With MySql.pdb
+c:\users\des3losh\documents\visual studio 2017\Projects\Students Manager System - With MySql\Students Manager System - With MySql\bin\Debug\mysql.data.dll
+C:\Users\Des3Losh\documents\visual studio 2017\Projects\Students Manager System - With MySql\Students Manager System - With MySql\obj\Debug\Students_Manager_System___With_MySql.FRM_HOME.resources
+C:\Users\Des3Losh\documents\visual studio 2017\Projects\Students Manager System - With MySql\Students Manager System - With MySql\obj\Debug\Students_Manager_System___With_MySql.FRM_ADD_STUDENT.resources
+C:\Users\Des3Losh\documents\visual studio 2017\Projects\Students Manager System - With MySql\Students Manager System - With MySql\obj\Debug\Students_Manager_System___With_MySql.FRM_STUDENT_MANAGE.resources
+C:\Users\Des3Losh\documents\visual studio 2017\Projects\Students Manager System - With MySql\Students Manager System - With MySql\obj\Debug\Students_Manager_System___With_MySql.FRM_ABOUT.resources
+C:\Users\Des3Losh\documents\visual studio 2017\Projects\Students Manager System - With MySql\Students Manager System - With MySql\obj\Debug\Students_Manager_System___With_MySql.FRM_COURCES.resources
+C:\Users\Des3Losh\documents\visual studio 2017\Projects\Students Manager System - With MySql\Students Manager System - With MySql\obj\Debug\Students_Manager_System___With_MySql.FRM_MARKS.resources
+C:\Users\Des3Losh\Documents\Visual Studio 2015\Projects\Students Manager System - With MySql - 1.0\bin\Debug\Students Manager System - With MySql.exe.config
+C:\Users\Des3Losh\Documents\Visual Studio 2015\Projects\Students Manager System - With MySql - 1.0\obj\Debug\Students Manager System - With MySql.exe
+C:\Users\Des3Losh\Documents\Visual Studio 2015\Projects\Students Manager System - With MySql - 1.0\obj\Debug\Students Manager System - With MySql.pdb
+C:\Users\Des3Losh\Documents\Visual Studio 2015\Projects\Students Manager System - With MySql - 1.0\bin\Debug\Students Manager System - With MySql.exe
+C:\Users\Des3Losh\Documents\Visual Studio 2015\Projects\Students Manager System - With MySql - 1.0\bin\Debug\Students Manager System - With MySql.pdb
+C:\Users\Des3Losh\Documents\Visual Studio 2015\Projects\Students Manager System - With MySql - 1.0\bin\Debug\mysql.data.dll
+C:\Users\Des3Losh\Documents\Visual Studio 2015\Projects\Students Manager System - With MySql - 1.0\obj\Debug\Students Manager System - With MySql.csprojResolveAssemblyReference.cache
+C:\Users\Des3Losh\Documents\Visual Studio 2015\Projects\Students Manager System - With MySql - 1.0\obj\Debug\Students_Manager_System___With_MySql.FRM_ABOUT.resources
+C:\Users\Des3Losh\Documents\Visual Studio 2015\Projects\Students Manager System - With MySql - 1.0\obj\Debug\Students_Manager_System___With_MySql.FRM_ADD_STUDENT.resources
+C:\Users\Des3Losh\Documents\Visual Studio 2015\Projects\Students Manager System - With MySql - 1.0\obj\Debug\Students_Manager_System___With_MySql.FRM_COURCES.resources
+C:\Users\Des3Losh\Documents\Visual Studio 2015\Projects\Students Manager System - With MySql - 1.0\obj\Debug\Students_Manager_System___With_MySql.FRM_HOME.resources
+C:\Users\Des3Losh\Documents\Visual Studio 2015\Projects\Students Manager System - With MySql - 1.0\obj\Debug\Students_Manager_System___With_MySql.MainForm.resources
+C:\Users\Des3Losh\Documents\Visual Studio 2015\Projects\Students Manager System - With MySql - 1.0\obj\Debug\Students_Manager_System___With_MySql.FRM_MARKS.resources
+C:\Users\Des3Losh\Documents\Visual Studio 2015\Projects\Students Manager System - With MySql - 1.0\obj\Debug\Students_Manager_System___With_MySql.FRM_STUDENT_MANAGE.resources
+C:\Users\Des3Losh\Documents\Visual Studio 2015\Projects\Students Manager System - With MySql - 1.0\obj\Debug\Students_Manager_System___With_MySql.Properties.Resources.resources
+C:\Users\Des3Losh\Documents\Visual Studio 2015\Projects\Students Manager System - With MySql - 1.0\obj\Debug\Students Manager System - With MySql.csproj.GenerateResource.Cache
